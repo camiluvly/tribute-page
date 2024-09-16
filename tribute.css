@@ -1,0 +1,30 @@
+* {
+    background-color: #b597c9; 
+    font-family: "Oswald", sans-serif;
+}
+
+main {
+    text-align: center;
+    color: #36454f;
+}
+
+#img-caption {
+    font-style: italic;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px 5px;
+}
+
+#link {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+section ul {
+    list-style: none;
+}
